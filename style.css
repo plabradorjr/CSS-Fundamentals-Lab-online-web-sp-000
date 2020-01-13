@@ -16,3 +16,7 @@ img {
 nav, figcaption {
   text-align: center;
 }
+
+nav a {
+  padding: 0 10px;
+}
