@@ -32,4 +32,5 @@ nav a {
 #details div {
   float: left;
   background-color: red;
+  width: 25%;
 }
